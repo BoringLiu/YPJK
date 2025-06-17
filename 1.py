@@ -2,7 +2,8 @@ import requests
 import time
 import hashlib
 import json
-
+# Last modified in 2025.5.22
+# By LuMing
 # === 参数配置 ===
 item_id = "922038391070"  # 替换成你要查询的 itemId
 m_h5_tk = "3885325d0d3dabbc97d857038d7ca260_1747910679105"
